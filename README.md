@@ -1,1 +1,1 @@
-# conf
+# Linux configuration
